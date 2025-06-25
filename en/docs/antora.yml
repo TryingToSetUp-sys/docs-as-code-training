@@ -1,0 +1,9 @@
+name: docs
+title: ProManage Documents
+version: 22
+
+start_page: userguide:index.adoc
+
+nav:
+  - modules/userguide/nav.adoc
+  - modules/adminguide/navA.adoc

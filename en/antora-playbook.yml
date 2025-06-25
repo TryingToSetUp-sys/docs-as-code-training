@@ -1,5 +1,5 @@
 site:
-  title: ProManage Dokumente
+  title: ProManage Docs
 
 git:
   ensure_git_suffix: false
@@ -7,7 +7,7 @@ git:
 content:
   sources:
     - url: https://github.com/TryingToSetUp-sys/docs-as-code-training.git
-      start_path: de/docs
+      start_path: en/docs
       branches: main
       edit_url: false
 

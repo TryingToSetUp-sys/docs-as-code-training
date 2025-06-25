@@ -1,0 +1,28 @@
+= Einführung Admin (DE)
+
+*ProManage* ist eine webbasierte Softwarelösung, die entwickelt wurde, um Teams folgenden Projektaufgaben zu unterstützen:
+
+* Planung
+* Durchführung
+* Überwachung
+
+Die Software bietet eine Vielzahl von Funktionen, die es Projektmanagern ermöglichen, Aufgaben zu verteilen, Fristen zu setzen, Ressourcen zu verwalten und die Fortschritte in Echtzeit zu verfolgen.
+
+== H2
+
+Lorem ipsum...
+
+== H2
+
+Lorem ipsum...
+
+=== H3
+
+Lorem ipsum...
+
+== H2
+
+Lorem ipsum...
+
+include::partial$h2_partial.adoc[...]
+

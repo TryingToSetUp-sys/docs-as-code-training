@@ -1,0 +1,13 @@
+= FAQ Admin
+
+.*Das Dashboard erscheint nicht.*
+[%collapsible]
+====
+Abhilfe
+====
+
+.*Die Ansicht, die ich hinzufügen möchte, ist in der Auswahl nicht vorhanden.*
+[%collapsible]
+====
+Abhilfe
+====
