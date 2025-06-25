@@ -16,5 +16,5 @@ runtime:
 
 ui:
   bundle:
-    url: https://github.com/TryingToSetUp-sys/docs-as-code-training/blob/main/src/ui-bundle.zip?job=bundle-stable
+    url: https://github.com/TryingToSetUp-sys/docs-as-code-training/blob/main/src/ui-bundle.zip
     snapshot: true
