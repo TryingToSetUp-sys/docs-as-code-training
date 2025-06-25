@@ -6,5 +6,3 @@ start_page: userguide:index.adoc
 
 nav:
   - modules/userguide/nav.adoc
-  - modules/adminguide/navA.adoc
-  - modules/Sachbearbeiter/nav.adoc

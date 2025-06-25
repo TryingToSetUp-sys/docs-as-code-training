@@ -13,3 +13,6 @@
 ** *Help*
 
 *** xref:trouble-shooting/FAQ.adoc[Go there!]
+
+include::adminguide:partial$navA.adoc[]
+include::Sachbearbeiter:partial$nav.adoc[]
