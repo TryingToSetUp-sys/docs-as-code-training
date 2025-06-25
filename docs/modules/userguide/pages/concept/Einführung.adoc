@@ -23,3 +23,7 @@ Lorem ipsum...
 == H2
 
 Lorem ipsum...
+
+
+Include:: partial$h2_partial.adoc
+
