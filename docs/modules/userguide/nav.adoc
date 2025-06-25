@@ -1,14 +1,15 @@
 * *Promanage*
 
-** xref:Einführung.adoc [Welcome]
-** xref:Funktionen.adoc[Was ist Promanage?]
-** xref:Zielgruppe.adoc [Für wen ist es geeignet?]
+** xref:concept/Einführung.adoc[Welcome]
+
+** xref:concept/Funktionen.adoc[Was ist Promanage?]
+** xref:concept/Zielgruppe.adoc[Für wen ist es geeignet?]
 
 * *Funktionen*
 
-** xref:Erfassungsarten Workload.adoc[Erfassungsarten]
-** xref:Ansicht_hinzufügen[Ansichten]
-** xref:Ansicht_hinzufügen.adoc[Aufgaben]
+** xref:reference/Erfassungsarten_Workload.adoc[Erfassungsarten]
+** xref:task/Aufgabe_erstellen.adoc[Aufgaben]
+** xref:task/Ansicht_hinzufügen.adoc[Ansichten]
 
 * *Help*
-** xref:FAQ.adoc[Go there!]
+** xref:trouble-shooting/FAQ.adoc[Go there!]

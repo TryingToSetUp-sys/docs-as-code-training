@@ -4,7 +4,7 @@
 
 . Auf image:add-frame.png[add_border,role=unsetDefaultStyle] klicken.
 . Datei anhängen.
-. Unter *_Kapazitätsplanung_* entsprechenden xref:Erfassungsarten_Workload.adoc[Workload] anlegen.
+. Unter *_Kapazitätsplanung_* entsprechenden xref:reference/Erfassungsarten_Workload.adoc[Workload] anlegen.
 
 [.result]
 Das Team hat wieder *Futter* zum Arbeiten.
