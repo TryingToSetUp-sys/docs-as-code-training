@@ -1,0 +1,11 @@
+* *ProManage*
+
+** xref:concept/Einführung_Admin.adoc[Welcome]
+
+* *Funktionen*
+
+** xref:reference/Erfassungsarten_Workload_Admin.adoc[Erfassungsarten]
+** xref:task/Aufgabe_erstellen_Admin.adoc[Aufgaben]
+
+* *Help*
+** xref:trouble-shooting/FAQ_Admin.adoc[Go there!]
