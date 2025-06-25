@@ -1,8 +1,8 @@
-* *Promanage*
+* *ProManage*
 
 ** xref:concept/Einführung.adoc[Welcome]
 
-** xref:concept/Funktionen.adoc[Was ist Promanage?]
+** xref:concept/Funktionen.adoc[Was ist ProManage?]
 ** xref:concept/Zielgruppe.adoc[Für wen ist es geeignet?]
 
 * *Funktionen*

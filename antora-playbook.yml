@@ -1,5 +1,5 @@
 site:
-  title: Promanage Docs
+  title: ProManage Docs
 
 git:
   ensure_git_suffix: false
@@ -16,5 +16,5 @@ runtime:
 
 ui:
   bundle:
-    url: https://github.com/TryingToSetUp-sys/docs-as-code-training/blob/main/src/ui-bundle.zip
+    url: C:\documentation\docs-as-code-training\src\ui-bundle
     snapshot: true
