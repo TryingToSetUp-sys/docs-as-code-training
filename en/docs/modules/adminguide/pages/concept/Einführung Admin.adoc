@@ -1,4 +1,4 @@
-= Einführung Admin (DE)
+= Einführung Admin
 
 *ProManage* ist eine webbasierte Softwarelösung, die entwickelt wurde, um Teams folgenden Projektaufgaben zu unterstützen:
 
