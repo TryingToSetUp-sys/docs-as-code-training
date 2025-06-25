@@ -24,6 +24,5 @@ Lorem ipsum...
 
 Lorem ipsum...
 
-
-Include:: partial$h2_partial.adoc
+include::partial$h2_partial.adoc
 
