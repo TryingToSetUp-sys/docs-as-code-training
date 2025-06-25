@@ -7,4 +7,4 @@ start_page: userguide:index.adoc
 nav:
   - modules/userguide/nav.adoc
   - modules/adminguide/navA.adoc
-#  - modules/ROOT/nav.adoc
+  - modules/Sachbearbeiter/nav.adoc
