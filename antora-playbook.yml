@@ -1,0 +1,12 @@
+site:
+  title: Promanage Docs
+
+git:
+  ensure_git_suffix: false
+
+content:
+  sources:
+    - url: https://github.com/TryingToSetUp-sys/docs-as-code-training.git
+      start_path: docs
+      branches: main
+      edit_url: false
