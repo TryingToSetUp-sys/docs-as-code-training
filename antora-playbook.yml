@@ -10,3 +10,11 @@ content:
       start_path: docs
       branches: main
       edit_url: false
+
+runtime:
+  fetch: true
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
