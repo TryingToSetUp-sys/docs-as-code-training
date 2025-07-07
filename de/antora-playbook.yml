@@ -20,5 +20,5 @@ runtime:
 
 ui:
   bundle:
-    url: C:\documentation\docs-as-code-training\src\ui-bundle
+    url:
     snapshot: true
